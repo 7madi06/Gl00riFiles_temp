@@ -26,7 +26,7 @@
 #_______________________________________________________________________________________#
 #                                                                                       #
 
-source $HOME/.config/zshrc/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
+# source $HOME/.config/zshrc/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 source $HOME/.config/zshrc/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $HOME/.config/zshrc/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $HOME/.config/zshrc/plugins/safe-paste/safe-paste.plugin.zsh ## prevent code from running while pasting
