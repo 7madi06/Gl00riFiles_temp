@@ -24,7 +24,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 alias fish-install="fisher install"
 alias fish-update="fisher update"

@@ -24,7 +24,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 alias gadd="forgit::add"
 alias gadd-all="forgit::add ."
@@ -55,4 +55,4 @@ alias grebase-abort="git rebase --abort"
 alias grebase-continue="git rebase --continue"
 
 ## Bare git repo alias for dotfiles
-alias gloorifiles="/usr/bin/git --git-dir=$HOME/Gl00riFiles/ --work-tree=$HOME"
+alias gloorifiles="/usr/bin/git --git-dir=$HOME/Gl00riFiles --work-tree=$HOME"

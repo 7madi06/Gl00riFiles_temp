@@ -24,7 +24,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 ## Play audio files in current dir by type
 alias play-wav="rhythmbox *.wav"

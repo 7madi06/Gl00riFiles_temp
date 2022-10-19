@@ -26,7 +26,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 ## To configs
 alias cfg.bash="cd $HOME/.config/bashrc"
@@ -35,7 +35,7 @@ alias cfg.zhs="cd $HOME/.config/zshrc"
 alias cfg.fish="cd $HOME/.config/fish"
 alias cfg.starship="cd $HOME/.config/starship"
 alias cfg.nvim="cd $HOME/.config/nvim"
-alias cfg.gloorifiles="cd $HOME/gloorifiles"
+alias cfg.dotfiles="cd $HOME/dotfiles"
 
 ## Changing shells
 alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"

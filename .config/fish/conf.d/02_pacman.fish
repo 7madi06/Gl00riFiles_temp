@@ -24,13 +24,13 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 alias sync="sudo pacman -Syy"                                    							 ## Refresh all pkgs lists after updating the mirrorlist
 alias pacupgrade="sudo pacman -Syu"                                            ## Upgrade
 
 ## Arch's nuclear
-alias upgrade-all="sudo pacman -Syy && sudo pacman -Syu && yay -Sua --noconfirm"
+alias upgrade-all="sudo pacman -Syy && yay -Syy && sudo pacman -Syu && yay -Sua --noconfirm"
 
 ## Install
 alias pacinstall="sudo pacman -S"                                              ## Install pkgs from the repo using "PACMAN"

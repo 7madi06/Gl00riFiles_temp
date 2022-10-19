@@ -24,7 +24,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 alias find-dir="find . -type d -name"                 ## Find a dir with the given name
 alias last-dir="dirs -v"                              ## lists last visited directories

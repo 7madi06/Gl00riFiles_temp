@@ -25,7 +25,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 alias whatsize="du -d 1 -h"                         ## Display the size of files in current location
 alias t="tail -f"                                   ## Outputs the last part of a file
@@ -43,7 +43,8 @@ alias list-tar="tar tf"
 alias list-tardotgz="echo"
 alias list-ace="unace l"
 
+
 ## create a backup file
-function backup --argumen filename
+function backup --argumen filename 
   cp $filename $filename.bak
 end

@@ -24,7 +24,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 set fish_greeting         ## No fishy greeting anymore
 

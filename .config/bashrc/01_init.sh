@@ -24,7 +24,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 # (1) Starship, Cross-shell prompt
 export STARSHIP_CONFIG="$HOME/.config/starship/starship.toml"

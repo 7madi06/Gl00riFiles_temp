@@ -26,7 +26,7 @@
 #             :   Last Updated  :   26, Sep, 2022                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
-#                                                                                       #
+#
 
 # bind \cE "$EDITOR $(fzf)"              ## NOTE:1) need some fishy help here
 bind \cF "_fzf_search_directory"       ## find a dir & print the location

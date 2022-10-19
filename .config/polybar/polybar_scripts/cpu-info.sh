@@ -1,5 +1,3 @@
-#!/usr/bin/env bash
-
 #_______________________________________________________________________________________#
 #                                                                                       #
 #              ██████╗ ██╗      ██████╗  ██████╗ ██████╗ ██╗ █████╗                     #
@@ -18,7 +16,7 @@
 #             :     @file        :  cpu-info.sh                                         #
 #             :     @folder      :  ~/.config/polybar/polybar_scripts                   #
 #             :     @brief       :  display cup info by clicking the CPU icon           #
-#             :     @requires    :  bash, notify-send                                   #
+#             :     @requires    :  bash, notify-send, awk                              #
 #             :    @required_by  :  polybar                                             #
 #             :     @optional    :  none                                                #
 #             :     @Note        :  none                                                #
@@ -29,6 +27,8 @@
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
 #                                                                                       #
+
+#!/usr/bin/env bash
 
 case "$1" in
     --popup)
