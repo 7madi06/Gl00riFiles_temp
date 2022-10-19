@@ -1,0 +1,6 @@
+[submodule "gloorifiles/.config/nvim"]
+	path = gloorifiles/.config/nvim
+	url = https://github.com/Gl00ria/nvim
+[submodule ".config/nvim"]
+	path = .config/nvim
+	url = https://github.com/Gl00ria/nvim
