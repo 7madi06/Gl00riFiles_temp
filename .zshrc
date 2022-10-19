@@ -14,8 +14,8 @@
 #                                                                                       #
 #             :     @file        :  .zshrc                                              #
 #             :     @folder      :  $HOME                                               #
-#             :     @brief       :  source the configuration files & Powerlevel10k      #
-#             :     @requires    :  zshShell, Powerlevel10k theme                       #
+#             :     @brief       :  source the configuration files                      #
+#             :     @requires    :  zshShell                                            #
 #             :     @optional    :  none                                                #
 #             :     @Note        :  none                                                #
 #_______________________________________________________________________________________#
