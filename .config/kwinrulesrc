@@ -1,0 +1,189 @@
+[$Version]
+update_info=kwinrules.upd:replace-placement-string-to-enum,kwinrules.upd:use-virtual-desktop-ids
+
+[0cf0ece2-2de2-4767-b925-4d7b8ed05054]
+Description=Application settings for dolphin
+clientmachine=localhost
+opacityactive=75
+opacityactiverule=2
+wmclass=dolphin
+wmclassmatch=1
+
+[1]
+Description=Application settings for rhythmbox
+clientmachine=localhost
+desktops=32989be2-3656-47d1-9d0e-ee50fc3332c9
+desktopsrule=3
+opacityactive=90
+opacityinactive=90
+opacityinactiverule=2
+wmclass=rhythmbox
+wmclassmatch=1
+
+[10]
+Description=Application settings for brave-browser
+clientmachine=localhost
+desktops=501788b8-f61b-4114-b315-b8d7cd3bade1
+desktopsrule=3
+screenrule=3
+wmclass=brave-browser
+wmclassmatch=1
+
+[11]
+Description=Application settings for kitty
+clientmachine=localhost
+desktops=abd53d52-b37b-4799-849e-22117a5af092
+desktopsrule=3
+wmclass=kitty
+wmclassmatch=1
+
+[2]
+Description=Application settings for dolphin
+clientmachine=localhost
+desktops=5c60f72a-2478-4696-8da7-1d61db7123ba
+opacityactive=90
+opacityactiverule=2
+wmclass=dolphin
+wmclassmatch=1
+
+[3]
+Description=Application settings for virtualbox manager
+clientmachine=localhost
+desktops=5c60f72a-2478-4696-8da7-1d61db7123ba
+desktopsrule=3
+wmclass=virtualbox manager
+wmclassmatch=1
+
+[341b0514-7238-4ec5-87ea-2e1b4a142b0e]
+Description=Application settings for notion-app
+clientmachine=localhost
+desktops=41785fac-e15f-4828-8ce5-7cfa60b0629e
+desktopsrule=3
+wmclass=notion-app
+wmclassmatch=1
+
+[39006fce-5808-4ba5-b7b1-5cfe0c63f8ec]
+Description=Application settings for notion-app-enhanced
+clientmachine=localhost
+desktops=41785fac-e15f-4828-8ce5-7cfa60b0629e
+desktopsrule=3
+wmclass=notion-app-enhanced
+wmclassmatch=1
+
+[3c60bb3a-395e-4a97-9dd8-78dd62a7280f]
+Description=Application settings for kitty
+clientmachine=localhost
+desktops=abd53d52-b37b-4799-849e-22117a5af092
+desktopsrule=3
+wmclass=kitty
+wmclassmatch=1
+
+[4]
+Description=Application settings for bluemail
+clientmachine=localhost
+desktops=41785fac-e15f-4828-8ce5-7cfa60b0629e
+desktopsrule=3
+wmclass=bluemail
+wmclassmatch=1
+
+[5]
+Description=Application settings for vmware
+clientmachine=localhost
+desktops=5c60f72a-2478-4696-8da7-1d61db7123ba
+desktopsrule=3
+wmclass=vmware
+wmclassmatch=1
+
+[529aa517-af82-44b5-9611-dd183a5c31b3]
+Description=Application settings for virtualbox manager
+clientmachine=localhost
+desktops=5c60f72a-2478-4696-8da7-1d61db7123ba
+desktopsrule=3
+wmclass=virtualbox manager
+wmclassmatch=1
+
+[6]
+Description=Application settings for barrier
+clientmachine=localhost
+desktops=5c60f72a-2478-4696-8da7-1d61db7123ba
+desktopsrule=3
+wmclass=barrier
+wmclassmatch=1
+
+[6333b6b6-0509-4cbd-84eb-473408600281]
+Description=Application settings for rhythmbox
+clientmachine=localhost
+opacityinactive=89
+opacityinactiverule=2
+wmclass=rhythmbox
+wmclassmatch=1
+
+[68932ab3-2da7-4c88-bbe5-e97344fab4d3]
+Description=Application settings for bluemail
+clientmachine=localhost
+desktops=41785fac-e15f-4828-8ce5-7cfa60b0629e
+desktopsrule=3
+wmclass=bluemail
+wmclassmatch=1
+
+[6f1b68d8-844d-4ced-a30e-db393ad66ffd]
+Description=Application settings for brave-browser
+clientmachine=localhost
+desktops=501788b8-f61b-4114-b315-b8d7cd3bade1
+desktopsrule=3
+wmclass=brave-browser
+wmclassmatch=1
+
+[7]
+Description=Application settings for notion-app
+clientmachine=localhost
+desktops=41785fac-e15f-4828-8ce5-7cfa60b0629e
+desktopsrule=3
+wmclass=notion-app
+wmclassmatch=1
+
+[76318f8b-ea38-4680-b821-9446e076dfb9]
+Description=Application settings for firefox
+clientmachine=localhost
+desktops=501788b8-f61b-4114-b315-b8d7cd3bade1
+desktopsrule=3
+wmclass=navigator firefox
+wmclasscomplete=true
+wmclassmatch=1
+
+[8]
+Description=Application settings for notion-app-enhanced
+clientmachine=localhost
+desktops=41785fac-e15f-4828-8ce5-7cfa60b0629e
+desktopsrule=3
+wmclass=notion-app-enhanced
+wmclassmatch=1
+
+[9]
+Description=Application settings for firefox
+clientmachine=localhost
+desktops=501788b8-f61b-4114-b315-b8d7cd3bade1
+desktopsrule=3
+wmclass=navigator firefox
+wmclasscomplete=true
+wmclassmatch=1
+
+[General]
+count=11
+rules=1,2,3,4,5,6,7,8,9,10,11
+
+[cc914aa0-f0af-41f6-8be5-a323772079c3]
+Description=Application settings for vmware
+clientmachine=localhost
+desktops=5c60f72a-2478-4696-8da7-1d61db7123ba
+desktopsrule=3
+wmclass=vmware
+wmclassmatch=1
+
+[f8fd80dd-94d1-40b9-beb2-84d8a45d953e]
+Description=Application settings for barrier
+clientmachine=localhost
+desktops=5c60f72a-2478-4696-8da7-1d61db7123ba
+desktopsrule=3
+wmclass=barrier
+wmclassmatch=1

@@ -1,0 +1,52 @@
+[$Version]
+update_info=kwin.upd:replace-scalein-with-scale,kwin.upd:port-minimizeanimation-effect-to-js,kwin.upd:port-scale-effect-to-js,kwin.upd:port-dimscreen-effect-to-js,kwin.upd:auto-bordersize,kwin.upd:animation-speed,kwin.upd:desktop-grid-click-behavior,kwin.upd:no-swap-encourage,kwin.upd:make-translucency-effect-disabled-by-default,kwin.upd:remove-flip-switch-effect,kwin.upd:remove-cover-switch-effect,kwin.upd:remove-cubeslide-effect,kwin.upd:remove-xrender-backend,kwin.upd:enable-scale-effect-by-default,kwin.upd:overview-group-plugin-id,bismuth_new_logger.upd:bismuth-new-logger,kwin.upd:animation-speed-cleanup
+
+[Compositing]
+OpenGLIsUnsafe=false
+
+[Desktops]
+Id_1=abd53d52-b37b-4799-849e-22117a5af092
+Id_2=501788b8-f61b-4114-b315-b8d7cd3bade1
+Id_3=4faa3b80-33ce-400b-96da-4a6af4a6d130
+Id_4=5c60f72a-2478-4696-8da7-1d61db7123ba
+Id_5=41785fac-e15f-4828-8ce5-7cfa60b0629e
+Id_6=32989be2-3656-47d1-9d0e-ee50fc3332c9
+Name_1=\s \s
+Name_2=\s  \s
+Name_3=\s  \s
+Name_4=\s  \s
+Name_5=\s  \s
+Name_6=\s  \s
+Number=6
+Rows=6
+
+[Effect-blur]
+BlurStrength=1
+NoiseStrength=0
+
+[Plugins]
+bismuthEnabled=true
+forceblurEnabled=true
+kwin4_effect_squashEnabled=false
+kwin4_effect_translucencyEnabled=true
+magiclampEnabled=true
+wobblywindowsEnabled=true
+
+[Script-bismuth]
+keepFloatAbove=false
+newWindowAsMaster=true
+screenGapBottom=10
+screenGapLeft=10
+screenGapRight=10
+screenGapTop=10
+tileLayoutGap=10
+untileByDragging=false
+
+[Script-forceblur]
+patterns=yakuake\nurxvt\nkeepassxc\ndolphin\nkitty
+
+[org.kde.kdecoration2]
+BorderSize=Tiny
+BorderSizeAuto=false
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__One-Dark-Green
