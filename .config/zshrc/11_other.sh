@@ -16,7 +16,7 @@
 #             :     @folder      :  ~/.config/zshrc/                                    #
 #             :     @brief       :  arbitrary aliases                                   #
 #             :     @requires    :  zshShell, neovim, vim, neofetch, rg, kitty, safe-rm #
-#             :     @optional    :  (1) pywal, (2) hangman, (3) fun forgot              #
+#             :     @optional    :  (1) pywal, (2) hangman, (3) forgot                  #
 #             :     @Note        :  create that Sexy-cmds.txt in your $HOME             #
 #_______________________________________________________________________________________#
 #                                                                                       #
