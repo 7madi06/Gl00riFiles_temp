@@ -1,4 +1,0 @@
-pane	0	0	1	:*	1	:/home/glooria	0	zsh	:
-pane	0	0	1	:*	2	:/home/glooria	1	zsh	:
-window	0	0	:zsh	1	:*	1113,174x48,0,0{87x48,0,0,0,86x48,88,0,3}	:
-state	0	
