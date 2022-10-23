@@ -70,3 +70,27 @@
 ![ nv_transparent ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/nv_transparent.png)
 - #### NavDexie
 ![ navDexi ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/navDexi.png)
+
+# How to?
+- create a folder in your $HOME directory
+```
+$ mkdir Gl00riFiles
+```
+- clone this repo as bare
+```
+$ git clone --bare https://github.com/Gl00ria/Gl00riFiles.git $HOME/Gl00riFiles
+```
+- define the alias in the current shell
+```
+$ alias gloorifiles='/usr/bin/git --git-dir=$HOME/Gl00riFiles/ --work-tree=$HOME'
+dotfiles config --local status.showUntrackedFiles no
+```
+- run this command if the alias is correctly placed in your shell
+```
+$ gloorifiles config --local status.showUntrackedFiles no
+```
+- checkout the content form the git repository to you $HOME
+```
+$ gloorifiles checkout
+```
+Have Fun!
