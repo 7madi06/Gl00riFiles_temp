@@ -29,7 +29,6 @@
 source $HOME/.config/zshrc/plugins/safe-paste/safe-paste.plugin.zsh ## prevent code from running while pasting
 source $HOME/.config/zshrc/plugins/urltools/urltools.plugin.zsh ## urlencode/urlencode
 source $HOME/.config/zshrc/plugins/zsh-navigation-tools/zsh-navigation-tools.plugin.zsh
-# source $HOME/.config/zshrc/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh
 source $HOME/.config/zshrc/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
 source $HOME/.config/zshrc/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $HOME/.config/zshrc/plugins/zsh-auto-notify/auto-notify.plugin.zsh # (1) Sends a notification whan a long running task has completed
@@ -40,3 +39,4 @@ source $HOME/.config/zshrc/plugins/web-search/web_search.plugin.zsh # (3)
 source $HOME/.config/zshrc/plugins/forgit/forgit.plugin.zsh # (4) (6)
 source $HOME/.config/zshrc/plugins/mysql-colorize/mysql-colorize.plugin.zsh # (5) colorize Mysql
 source $HOME/.config/oh-my-zsh/plugins/zsh-interactive-cd/zsh-interactive-cd.plugin.zsh
+# source $HOME/.config/zshrc/plugins/zsh-autocomplete/zsh-autocomplete.plugin.zsh

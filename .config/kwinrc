@@ -48,5 +48,4 @@ patterns=yakuake\nurxvt\nkeepassxc\ndolphin\nkitty
 [org.kde.kdecoration2]
 BorderSize=Tiny
 BorderSizeAuto=false
-library=org.kde.kwin.aurorae
 theme=__aurorae__svg__One-Dark-Green

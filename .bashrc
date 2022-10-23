@@ -31,6 +31,5 @@
 for cfgs in $HOME/.config/bashrc/*; do
   source $cfgs
 done
-source $HOME/.config/zshrc/plugins/forgit/forgit.plugin.sh
 
 # ----------------------------------------------------------------

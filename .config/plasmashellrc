@@ -1,11 +1,19 @@
+[FileDialogSize]
+eDP-1-1 HDMI-1-1 Height 1920x1080 HDMI-1-1=718
+eDP-1-1 HDMI-1-1 Width 1920x1080 HDMI-1-1=980
+
 [KFileDialog Settings]
-Recent Files[$e]=Anime_Girl_WhiteHair_BlackMask.jpg,file:$HOME/Pictures/SlideShow/bg_6.jpg,file:$HOME/Pictures/SlideShow/anime_red&grey.png,file:$HOME/Pictures/SlideShow/Anime_Girl_WhiteHair_BlackMask.jpg
-Recent URLs[$e]=file:$HOME/Pictures/SlideShow/,file:$HOME/Pictures/
+Recent Files[$e]=Anime_Girl_WhiteHair_BlackMask.jpg,file:$HOME/Pictures/SlideShow/backiee-228069-landscape.jpg,file:$HOME/Pictures/SlideShow/anime_red&grey.png,file:$HOME/Pictures/SlideShow/bg_6.jpg,file:$HOME/Pictures/SlideShow/Anime_Girl_WhiteHair_BlackMask.jpg
+Recent URLs[$e]=file:$HOME/Pictures/SlideShow/,file:$HOME/Pictures/,file:$HOME/
 detailViewIconSize=16
+iconViewIconSize=64
+listViewIconSize=64
 
 [KPropertiesDialog]
 eDP-1-1 HDMI-1-1 Height 1920x1080=455
 eDP-1-1 HDMI-1-1 Width 1920x1080=417
+eDP-1-1 Height 1920x1080 eDP-1-1=445
+eDP-1-1 Width 1920x1080 eDP-1-1=466
 
 [PlasmaViews][Panel 110]
 alignment=132
@@ -111,6 +119,32 @@ thickness=27
 
 [PlasmaViews][Panel 203][Horizontal1920]
 thickness=27
+
+[PlasmaViews][Panel 224][Defaults]
+thickness=27
+
+[PlasmaViews][Panel 224][Horizontal1920]
+thickness=27
+
+[PlasmaViews][Panel 226]
+alignment=2
+floating=1
+panelOpacity=2
+panelVisibility=2
+
+[PlasmaViews][Panel 226][Defaults]
+maxLength=1019
+minLength=1006
+offset=0
+thickness=44
+
+[PlasmaViews][Panel 226][Horizontal1920]
+thickness=44
+
+[PlasmaViews][Panel 226][Vertical1080]
+maxLength=1019
+minLength=1006
+offset=0
 
 [PlasmaViews][Panel 3][Defaults]
 thickness=52

@@ -1298,6 +1298,7 @@ Theme[$d]
 
 [KDE]
 LookAndFeelPackage[$d]
+widgetStyle[$d]
 
 [KFileDialog Settings]
 Allow Expansion[$d]

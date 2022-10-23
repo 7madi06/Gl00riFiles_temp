@@ -1,11 +1,12 @@
 [TabBox]
 DesktopLayout=org.kde.breeze.desktop
 DesktopListLayout=org.kde.breeze.desktop
-LayoutName=big_icons
+LayoutName=preview_stack
 
 [Windows]
 Placement=Centered
 
 [org.kde.kdecoration2]
-library=org.kde.lightly
-theme=Lightly
+NoPlugin=false
+library=org.kde.kwin.aurorae
+theme=__aurorae__svg__Scratchy

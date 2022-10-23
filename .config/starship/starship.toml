@@ -80,7 +80,7 @@ format = "[( )$localipv4]($style) "
 disabled = false
 truncation_length = 8
 home_symbol = " "
-read_only = " " 
+read_only = " "
 format = "[$path](bold cyan)[/](bold green)[$read_only](bold #FF0000) "
 use_os_path_sep = true
 truncate_to_repo = true
@@ -164,7 +164,7 @@ disabled = false
 symbol = " "
 style = "bold #735302"
 format = 'on [$symbol($profile )(\($region\) )(\[$duration\] )]($style)'
-# region_aliases = 
+# region_aliases =
 # profile_aliases =
 expiration_symbol = " "
 
@@ -324,7 +324,7 @@ disabled = false
 symbol = " "
 style = "bold #341d1e"
 format = 'on [$symbol$account(@$domain)(\($region\))]($style) '
-# region_aliases = 
+# region_aliases =
 # project_aliases =
 
 [golang]
@@ -392,7 +392,7 @@ disabled = true
 symbol = "Kubernetes"
 style = "bold #1b1bbd"
 format = '[$symbol$context( \($namespace\))]($style) in '
-# context_aliases = 
+# context_aliases =
 # user_aliases =
 detect_extensions = []
 detect_files = []
@@ -477,7 +477,7 @@ detect_folders = []
 [php]
 disabled = false
 symbol = " "
-style = "bold #39457c" 
+style = "bold #39457c"
 version_format = "v${raw}"  # Available >> raw, major, minor & patch
 format = "via [$symbol($version )]($style)"
 detect_extensions = ["php"]
@@ -494,7 +494,7 @@ search_upwards = true # Dnable discovery of pulumi config files in parent direct
 
 [purescript]
 disabled = false
-symbol = "<=>" 
+symbol = "<=>"
 style = "bold #171b24"
 format = "via [$symbol($version )]($style)"
 version_format = "v${raw}"  # Available >> raw, major, minor & patch
@@ -517,7 +517,7 @@ detect_folders = []
 
 [rlang]
 disabled = false
-symbol = "Rlang" 
+symbol = "Rlang"
 style = "bold #2569be"
 format = "via [$symbol($version )]($style)"
 version_format = "v${raw}"  # Available >> raw, major, minor & patch
@@ -651,7 +651,7 @@ detect_folders = []
 # style = "bold #146c23"
 # format = "Vars [$env_value]($style) "
 # default = " "
-# variable = 
+# variable =
 
 ## Dosn't seem to work properly
 # [status]
@@ -667,5 +667,4 @@ detect_folders = []
 # pipestatus = true
 # pipestatus_separator = "|"
 # pipestatus_format = "\\[$pipestatus\\] => [$symbol$common_meaning$signal_name$maybe_int]($style)"
-# pipestatus_segment_format = 
-
+# pipestatus_segment_format =
