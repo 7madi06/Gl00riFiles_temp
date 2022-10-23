@@ -56,7 +56,7 @@
 - #### Polybar & KDE's Default Status-bar
 ![ status-bars ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/status-bars.png)
 - #### Cava within polybar
-![ cava ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/cava.png)
+![ cava ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/cava.png)
 - #### Dunst
 ![ dunst ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/dunst.png)
 - #### Ranger & Dolphin
