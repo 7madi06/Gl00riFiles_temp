@@ -47,26 +47,26 @@
   - Cursors: Oxygen Yellow.
 - #### Starship with different icons for different shells & extra icon shows-up when the root password's still cached
   - Bash, ZSH, FISH
-![ prompt_icons ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/prompot_icons.png)
+![ prompt_icons ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/prompot_icons.png)
   - I'm groot
-![ prompt_root ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/prompt_root.png)
+![ prompt_root ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/prompt_root.png)
 
 - #### Alacritty & Kitty
-![ terminals ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/terminals.png)
+![ terminals ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/terminals.png)
 - #### Polybar & KDE's Default Status-bar
-![ status-bars ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/status-bars.png)
+![ status-bars ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/status-bars.png)
 - #### Cava within polybar
 ![ cava ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/cava.png)
 - #### Dunst
-![ dunst ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/dunst.png)
+![ dunst ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/dunst.png)
 - #### Ranger & Dolphin
-![ ranger_pic ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/ranger_pic.png)
-![ ranger_txt ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/ranger_txt.png)
-![ dolphine ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/dolphine.png)
+![ ranger_pic ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/ranger_pic.png)
+![ ranger_txt ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/ranger_txt.png)
+![ dolphine ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/dolphine.png)
 - #### Neofetch
-![ nf ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/nf.png)
+![ nf ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/nf.png)
 - #### Nvim
-![ nv_normal ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/nv_normal.png)
-![ nv_transparent ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/nv_transparent.png)
+![ nv_normal ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/nv_normal.png)
+![ nv_transparent ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/nv_transparent.png)
 - #### NavDexie
-![ navDexi ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles_Pics/navDexi.png)
+![ navDexi ](https://github.com/Gl00ria/Gl00riFiles/blob/main/Gl00riFiles/Gl00riFiles_Pics/navDexi.png)
