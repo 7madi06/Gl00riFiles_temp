@@ -1164,7 +1164,7 @@ Uuid={31919cf9-5f44-44d0-9b0d-db57abb18cdf}
 
 [Data_6]
 Comment=Using an external keyboard (FN + F11)
-Enabled=true
+Enabled=false
 Name=BrightnessUp | External
 Type=SIMPLE_ACTION_DATA
 
@@ -1184,7 +1184,7 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_6Triggers0]
-Key=Launch (1)
+Key=
 Type=SHORTCUT
 Uuid={278f5bdb-cc8c-4791-a062-6004f5fe610c}
 
@@ -1210,13 +1210,13 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_7Triggers0]
-Key=F12
+Key=Shift+Up
 Type=SHORTCUT
 Uuid={e56ac547-978a-42c3-bec3-bcae2e5a4f70}
 
 [Data_8]
 Comment=Using an external keyboard (FN + F11)
-Enabled=true
+Enabled=false
 Name=BrightnessDown | External
 Type=SIMPLE_ACTION_DATA
 
@@ -1262,7 +1262,7 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_9Triggers0]
-Key=F11
+Key=Shift+Down
 Type=SHORTCUT
 Uuid={d86778db-cace-41ad-a46f-2d4c3f5d16b5}
 

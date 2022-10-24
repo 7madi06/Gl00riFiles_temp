@@ -145,6 +145,7 @@ thickness=44
 maxLength=1019
 minLength=1006
 offset=0
+thickness=44
 
 [PlasmaViews][Panel 3][Defaults]
 thickness=52

@@ -13,7 +13,7 @@ _launch=Ctrl+Alt+Return,none,Alacritty
 [KDE Keyboard Layout Switcher]
 Switch keyboard layout to Arabic (QWERTY)=none,none,Switch keyboard layout to Arabic (QWERTY)
 Switch keyboard layout to English (US)=none,none,Switch keyboard layout to English (US)
-Switch to Next Keyboard Layout=none,Meta+Alt+K,Switch to Next Keyboard Layout
+Switch to Next Keyboard Layout=Meta+Alt+K,Meta+Alt+K,Switch to Next Keyboard Layout
 _k_friendly_name=Keyboard Layout Switcher
 
 [bismuth]
@@ -54,10 +54,6 @@ toggle_three_column_layout=none,,Toggle Three Column Layout
 toggle_tile_layout=Meta+[,Meta+T,Toggle Tile Layout
 toggle_window_floating=none,Meta+F,Toggle Active Window Floating
 
-[bluemail.desktop]
-_k_friendly_name=BlueMail
-_launch=Ctrl+Alt+B,none,BlueMail
-
 [brave-browser.desktop]
 _k_friendly_name=Brave
 _launch=none,none,Brave
@@ -95,8 +91,8 @@ _k_friendly_name=Custom Shortcuts Service
 {7a4033b1-f641-4dab-9c4e-78bf3fa0ea8c}=none,none,Take full-screen screenshot and copy it to clipboard
 {b0f9c859-bf84-42c6-8ae0-94da1a616cf1}=none,none,Open Flameshot Launcher
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
-{d86778db-cace-41ad-a46f-2d4c3f5d16b5}=F11,none,BrightnessDown | Laptop
-{e56ac547-978a-42c3-bec3-bcae2e5a4f70}=F12,none,BrightnessUp | Laptop
+{d86778db-cace-41ad-a46f-2d4c3f5d16b5}=Shift+Down,none,BrightnessDown | Laptop
+{e56ac547-978a-42c3-bec3-bcae2e5a4f70}=Shift+Up,none,BrightnessUp | Laptop
 {e8cd3c71-932e-4800-9fb4-95e87b3c7309}=Browser,none,BrightnessDown | External
 
 [kitty.desktop]
@@ -282,11 +278,11 @@ view_zoom_out=none,Meta+-,Zoom Out
 
 [mediacontrol]
 _k_friendly_name=Media Controller
-mediavolumedown=none,,Media volume down
-mediavolumeup=none,,Media volume up
+mediavolumedown=none,none,Media volume down
+mediavolumeup=none,none,Media volume up
 nextmedia=Media Next,Media Next,Media playback next
 pausemedia=Media Pause,Media Pause,Pause media playback
-playmedia=none,,Play media playback
+playmedia=none,none,Play media playback
 playpausemedia=Media Play,Media Play,Play/Pause media playback
 previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback
@@ -295,39 +291,28 @@ stopmedia=Media Stop,Media Stop,Stop media playback
 _k_friendly_name=Notion
 _launch=Ctrl+Alt+N,none,Notion
 
-[org.flameshot.Flameshot.desktop]
-Capture=Print,none,Take screenshot
-Configure=none,none,Configure
-Launcher=none,none,Open launcher
-_k_friendly_name=Flameshot
-_launch=none,none,Flameshot
-
 [org.gnome.Rhythmbox3.desktop]
 _k_friendly_name=Rhythmbox
 _launch=Ctrl+Alt+M,none,Rhythmbox
 
 [org.kde.dolphin.desktop]
 _k_friendly_name=Dolphin
-_launch=Meta+E,Meta+E,Dolphin
+_launch=Meta+D,Meta+E,Dolphin
 
 [org.kde.krunner.desktop]
 RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
 _k_friendly_name=KRunner
-_launch=Search\tAlt+Space\tAlt+F2,Alt+Space\tAlt+F2\tSearch,KRunner
-
-[org.kde.plasma.emojier.desktop]
-_k_friendly_name=Emoji Selector
-_launch=Meta+.,Meta+.,Emoji Selector
+_launch=Alt+Space,Alt+Space\tAlt+F2\tSearch,KRunner
 
 [org.kde.spectacle.desktop]
 ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
 CurrentMonitorScreenShot=none,none,Capture Current Monitor
 FullScreenScreenShot=Shift+Print,Shift+Print,Capture Entire Desktop
 OpenWithoutScreenshot=none,none,Launch Spectacle without capturing
-RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Capture Rectangular Region
+RectangularRegionScreenShot=Print,Meta+Shift+Print,Capture Rectangular Region
 WindowUnderCursorScreenShot=Meta+Ctrl+Print,Meta+Ctrl+Print,Capture Window Under Cursor
 _k_friendly_name=Spectacle
-_launch=none,Print,Launch Spectacle
+_launch=,Print,Launch Spectacle
 
 [org_kde_powerdevil]
 Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
@@ -359,9 +344,9 @@ activate widget 141=none,none,Activate Task Manager Widget
 activate widget 154=none,none,Activate Virtual Desktop Bar Widget
 activate widget 156=none,none,Activate Virtual Desktop Bar Widget
 activate widget 163=none,none,Activate Application Launcher Widget
-activate widget 213=Meta+D,none,Activate Application Dashboard Widget
+activate widget 213=none,none,Activate Application Dashboard Widget
 activate widget 217=Meta+T,none,Activate NavDexie menu launcher Widget
-activate widget 251=,none,Activate Analog Clock Widget
+activate widget 251=none,none,Activate Analog Clock Widget
 activate widget 31=none,none,Activate Application Launcher Widget
 activate widget 4=Alt+F1,none,Activate Application Launcher Widget
 activate widget 57=none,none,Activate Application Launcher Widget
@@ -384,15 +369,6 @@ switch to next activity=none,,Switch to Next Activity
 switch to previous activity=none,,Switch to Previous Activity
 toggle do not disturb=none,,Toggle do not disturb
 
-[systemsettings.desktop]
-_k_friendly_name=System Settings
-_launch=Tools,Tools,System Settings
-kcm-kscreen=none,none,Display Configuration
-kcm-lookandfeel=none,none,Global Theme
-kcm-users=none,none,Users
-powerdevilprofilesconfig=none,none,Energy Saving
-screenlocker=none,none,Screen Locking
-
-[youtubedl-gui.desktop]
-_k_friendly_name=Youtube Downloader
-_launch=Ctrl+Alt+Y,none,Youtube Downloader
+[ranger.desktop]
+_k_friendly_name=ranger
+_launch=Meta+R,none,ranger
