@@ -83,7 +83,6 @@ $ git clone --bare https://github.com/Gl00ria/Gl00riFiles.git $HOME/Gl00riFiles
 - define the alias in the current shell
 ```
 $ alias gloorifiles='/usr/bin/git --git-dir=$HOME/Gl00riFiles/ --work-tree=$HOME'
-dotfiles config --local status.showUntrackedFiles no
 ```
 - run this command if the alias is correctly placed in your shell
 ```
