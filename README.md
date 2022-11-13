@@ -23,12 +23,16 @@
 - ##### ls's alternative: [lsd](https://github.com/Peltoche/lsd)
 - ##### Cat's alternative with wings: [Bat](https://github.com/sharkdp/bat)
 - ##### [Ripgrep](https://github.com/BurntSushi/ripgrep)
-- ##### [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
-  - Fira Code Nerd Font
-  - Caskaydia Cove Nerd Font
-  - Caskaydia Cove Nerd Font Mono
+- ##### Fonts:
+  - ##### [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)
+    - Fira Code Nerd Font
+    - Caskaydia Cove Nerd Font
+    - Caskaydia Cove Nerd Font Mono
+  - [FeatherIcons](https://github.com/feathericons/feather)
   - [Codicon](https://github.com/microsoft/vscode-codicons/raw/main/dist/codicon.ttf) 'optional'
-    - See [My font installation script](https://github.com/Gl00ria/FontsL00ria) to make things easier.
+      - See [My font installation script](https://github.com/Gl00ria/FontsL00ria) to make things easier.
+      ##### OR if you are LAZY
+      - Place the `Fonts` folder in `.local/share/fonts` then run `fc-cache`
 ### Optional:
 - #### [pywal](https://github.com/dylanaraps/pywal): generate & change color-schemes based on the current wallpaper
 - #### [znt](https://github.com/z-shell/zsh-navigation-tools): zsh-navigation-tools 
