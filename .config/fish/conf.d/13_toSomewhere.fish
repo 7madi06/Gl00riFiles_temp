@@ -28,13 +28,12 @@
 #
 
 ## To configs
-alias cfg.bash="cd $HOME/.config/bashrc"
-alias cfg.zsh="cd $HOME/.config/zshrc"
-alias cfg.zhs="cd $HOME/.config/zshrc"
-alias cfg.fish="cd $HOME/.config/fish"
-alias cfg.starship="cd $HOME/.config/starship"
-alias cfg.nvim="cd $HOME/.config/nvim"
-alias cfg.dotfiles="cd $HOME/dotfiles"
+alias bashconfig="cd $HOME/.config/bashrc"
+alias zshconfig="cd $HOME/.config/zshrc"
+alias zhsconfig="cd $HOME/.config/zshrc"
+alias fishconfig="cd $HOME/.config/fish"
+alias starshipconfig="cd $HOME/.config/starship"
+alias nvconfig="cd $HOME/.config/nvim"
 
 ## Changing shells
 alias tobash="sudo chsh $USER -s /bin/bash && echo 'Now log out.'"
