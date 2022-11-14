@@ -24,13 +24,13 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=114,81,156
+BackgroundAlternate=18,109,149
 BackgroundNormal=54,58,79
-DecorationFocus=141,92,190
-DecorationHover=141,92,190
-ForegroundActive=141,92,190
+DecorationFocus=3,131,179
+DecorationHover=3,131,179
+ForegroundActive=3,131,179
 ForegroundInactive=184,192,224
-ForegroundLink=141,92,190
+ForegroundLink=3,131,179
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=202,211,245
@@ -40,11 +40,11 @@ ForegroundVisited=198,160,246
 [Colors:Complementary]
 BackgroundAlternate=36,39,58
 BackgroundNormal=36,39,58
-DecorationFocus=141,92,190
-DecorationHover=141,92,190
-ForegroundActive=141,92,190
+DecorationFocus=3,131,179
+DecorationHover=3,131,179
+ForegroundActive=3,131,179
 ForegroundInactive=161,169,177
-ForegroundLink=141,92,190
+ForegroundLink=3,131,179
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -54,11 +54,11 @@ ForegroundVisited=155,89,182
 [Colors:Header]
 BackgroundAlternate=24,25,38
 BackgroundNormal=24,25,38
-DecorationFocus=141,92,190
-DecorationHover=141,92,190
-ForegroundActive=141,92,190
+DecorationFocus=3,131,179
+DecorationHover=3,131,179
+ForegroundActive=3,131,179
 ForegroundInactive=161,169,177
-ForegroundLink=141,92,190
+ForegroundLink=3,131,179
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -80,13 +80,13 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Selection]
-BackgroundAlternate=109,76,150
-BackgroundNormal=109,76,150
-DecorationFocus=141,92,190
-DecorationHover=141,92,190
-ForegroundActive=141,92,190
+BackgroundAlternate=12,103,142
+BackgroundNormal=12,103,142
+DecorationFocus=3,131,179
+DecorationHover=3,131,179
+ForegroundActive=3,131,179
 ForegroundInactive=255,255,255
-ForegroundLink=141,92,190
+ForegroundLink=3,131,179
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=255,255,255
@@ -96,11 +96,11 @@ ForegroundVisited=198,160,246
 [Colors:Tooltip]
 BackgroundAlternate=30,32,48
 BackgroundNormal=30,32,48
-DecorationFocus=141,92,190
-DecorationHover=141,92,190
-ForegroundActive=141,92,190
+DecorationFocus=3,131,179
+DecorationHover=3,131,179
+ForegroundActive=3,131,179
 ForegroundInactive=184,192,224
-ForegroundLink=141,92,190
+ForegroundLink=3,131,179
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=184,192,224
@@ -110,11 +110,11 @@ ForegroundVisited=198,160,246
 [Colors:View]
 BackgroundAlternate=36,39,58
 BackgroundNormal=36,39,58
-DecorationFocus=141,92,190
-DecorationHover=141,92,190
-ForegroundActive=141,92,190
+DecorationFocus=3,131,179
+DecorationHover=3,131,179
+ForegroundActive=3,131,179
 ForegroundInactive=184,192,224
-ForegroundLink=141,92,190
+ForegroundLink=3,131,179
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=202,211,245
@@ -124,11 +124,11 @@ ForegroundVisited=198,160,246
 [Colors:Window]
 BackgroundAlternate=36,39,58
 BackgroundNormal=36,39,58
-DecorationFocus=141,92,190
-DecorationHover=141,92,190
-ForegroundActive=141,92,190
+DecorationFocus=3,131,179
+DecorationHover=3,131,179
+ForegroundActive=3,131,179
 ForegroundInactive=184,192,224
-ForegroundLink=141,92,190
+ForegroundLink=3,131,179
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=202,211,245
@@ -137,12 +137,12 @@ ForegroundVisited=198,160,246
 
 [DirSelect Dialog]
 DirSelectDialog Size=869,596
-History Items[$e]=file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Desktop/testMusic,file:$HOME/Pictures/SlideShow,file:$HOME/VMs,file:$HOME/VMs,file:$HOME/VMs,file:$HOME/Pictures/SlideShow,file:$HOME/VMs,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow
+History Items[$e]=file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Desktop/testMusic,file:$HOME/Pictures/SlideShow,file:$HOME/VMs,file:$HOME/VMs,file:$HOME/VMs,file:$HOME/Pictures/SlideShow,file:$HOME/VMs,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow
 
 [General]
-AccentColor=141,92,190
+AccentColor=3,131,179
 BrowserApplication=brave-browser.desktop
-ColorSchemeHash=99d03011532ecef3733561af50e5777022fc87ec
+ColorSchemeHash=cee3b89b17d1c28460ba4aa3dec3ba4f52bfbc50
 XftHintStyle=hintslight
 XftSubPixel=rgb
 accentColorFromWallpaper=true
@@ -153,7 +153,7 @@ smallestReadableFont=CaskaydiaCove Nerd Font Mono,8,-1,5,75,0,0,0,0,0,Bold
 toolBarFont=CaskaydiaCove Nerd Font Mono,10,-1,5,75,0,0,0,0,0,Bold
 
 [Icons]
-Theme=Dexie-red-dark
+Theme=Dexie-red
 
 [KDE]
 LookAndFeelPackage=Scratchy
