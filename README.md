@@ -11,7 +11,7 @@
     - NOTE:  [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) & [powerlevel10k-theme](https://github.com/romkatv/powerlevel10k) are available & configured for ZSH as well.
 - ##### Terminal Emulator: [Alacritty](https://github.com/alacritty/alacritty) OR [Kitty]( https://github.com/kovidgoyal/kitty )
 - ##### Status bars: [Polybar](https://github.com/polybar/polybar) & KDE's Default
-- ##### [Cava](https://github.com/karlstav/cava) audio visualizer
+- ##### Audio visualizer: [Cava](https://github.com/karlstav/cava) 
 - ##### Notification deamon: [Dunst](https://github.com/dunst-project/dunst)
 - ##### File managers: [Ranger](https://github.com/ranger/ranger) & [Dolphin](https://apps.kde.org/dolphin/)
 - ##### System Info: [Neofetch]( https://github.com/dylanaraps/neofetch)
