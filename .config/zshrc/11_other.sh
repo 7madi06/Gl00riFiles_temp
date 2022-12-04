@@ -17,7 +17,7 @@
 #             :     @brief       :  arbitrary aliases                                   #
 #             :     @requires    :  zshShell, neovim, vim, neofetch, rg, kitty, safe-rm #
 #             :     @optional    :  (1) pywal, (2) hangman, (3) forgot                  #
-#             :     @Note        :  create that Sexy-cmds.txt in your $HOME             #
+#             :     @Note        :  create that SexyCommands.txt in your $HOME          #
 #_______________________________________________________________________________________#
 #                                                                                       #
 #             :    Created on   :   26, Sep, 2022                                       #
@@ -63,7 +63,7 @@ alias game="cd ~/Downloads/hangman && go run main.go" ## Let your brain blowup
 ## (3) Don't forget commands anymore
 forgot()
 {
-  cat ~/Sexy-cmds.txt
+  cat ~/SexyCommands.txt
 }
 
 ## get the current weather based in ur current location

@@ -44,6 +44,8 @@ alias gcherry_pick="forgit::cherry::pick"
 alias grebase="forgit::rebase"
 alias gblame="forgit::blame"
 alias gfixup="forgit::fixup"
+
+alias gstatus="git status"
 alias gclone="git clone --depth 1"
 alias gfetch="git fetch"
 alias gbranch="git branch"

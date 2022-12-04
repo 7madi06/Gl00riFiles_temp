@@ -17,7 +17,7 @@
 #             :     @brief       :  arbitrary aliases                                   #
 #             :     @requires    :  fishShell, neovim, vim, neofetch, rg, kitty, safe-rm#
 #             :     @optional    :  (1) wal, (2) hangman, (3) fun forgot                #
-#             :     @Note        :  create that Sexy-cmds.txt in your $HOME             #
+#             :     @Note        :  create that SexyCommands.txt in your $HOME          #
 #_______________________________________________________________________________________#
 #                                                                                       #
 #             :    Created on   :   26, Sep, 2022                                       #

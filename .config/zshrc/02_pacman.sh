@@ -56,7 +56,7 @@ alias clr-cache="sudo pacman -Sc --noconfirm && yay -Sc --noconfirm"         # C
 alias clr-allchace="sudo pacman -Scc --noconfirm && yay -Scc --noconfirm"    # Clear all files from the cache
 alias pacremove="pacman -Qq | fzf --multi --preview 'pacman -Qi {1}' | xargs -ro sudo pacman -R"                 # Remove a pkg, keeps its settings & dependencies
 alias pacremove-with-settings="pacman -Qq | fzf --multi --preview 'pacman -Qi {1}' | xargs -ro sudo pacman -Rns" # Remove a pkg, including its settings & dependencies
-alias pacuseless="sudo pacman -Rs $(pacman -Qtdq)"                           # Remove unneeded pkgs
+alias pacuseless="sudo pacman -Rsn $(pacman -Qdtq)"                          # Remove unneeded pkgs
 
 alias unlock="sudo rm /var/lib/pacman/db.lck"                                # Remove pacman lock
 

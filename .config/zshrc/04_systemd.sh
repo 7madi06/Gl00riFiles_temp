@@ -41,7 +41,9 @@ alias sys-preset="sudo systemctl preset"                ## Reset the enable/disa
 alias sys-load="sudo systemctl load"
 alias sys-reload="sudo systemctl reload"
 alias sys-restart="sudo systemctl restart"
+alias sys-daemon-reload="sudo systemctl daemon-reload"
 alias sys-try-restart="sudo systemctl try-restart"
+alias sys-show-failed="sudo systemctl --state=failed"
 alias sys-reset-filad="sudo systemctl reset-failed"     ## Reset the failed state of the specified unit/s
 alias sys-cancel="sudo systemctl cancel"
 
