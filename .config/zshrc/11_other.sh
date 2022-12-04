@@ -33,6 +33,7 @@ alias :q="exit"
 alias q="exit"
 alias x="exit"
 alias k="clear"
+alias pat="nvim ~/GitHubs/pat.txt"
 alias cls="clear"
 alias tree="tree -a"
 
