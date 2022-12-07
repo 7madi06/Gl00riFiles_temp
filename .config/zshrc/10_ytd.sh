@@ -27,7 +27,8 @@
 #                                                                                       #
 
 ## Download video & convert to mp3 | ytd -a filename.txt
-alias ytd-list='echo "[ Download and convert to mp3 ]"; youtube-dl -i --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s"'
+alias ytd-list-from-file='echo "[ Download and convert to mp3 ]"; youtube-dl -i --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s" -a'
+alias ytd-single-play-list='echo "[ Download and convert to mp3 ]"; youtube-dl -i --extract-audio --audio-format mp3 -o "%(title)s.%(ext)s"'
 
 alias ytd-audio-aac="yt-dlp --extract-audio --audio-format aac"
 alias ytd-audio-best="yt-dlp --extract-audio --audio-format best"
