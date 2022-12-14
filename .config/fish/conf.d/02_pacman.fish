@@ -45,9 +45,9 @@ alias pacpkg-list="sudo pacman -Ql"                             # List files in 
 alias pacsearch-local="sudo pacman -Qs"                         # Search installed pkgs
 
 ## Search & install pkgs in pacman's repo & mark the installed pkgs with *
-pacsearch(){
+function pacsearch
   pacman -Sl | awk '{print $2($4=="" ? "" : " *")}' | fzf --multi --ansi --preview 'pacman -Si {1}' --reverse | xargs -ro sudo pacman -S
-}
+end
 
 alias pkgtree="pactree"                                         # Find out the dependencies for a pkg
 
