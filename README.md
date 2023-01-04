@@ -6,12 +6,12 @@
 - ##### Shells:
   - [Bash](https://www.gnu.org/software/bash/)
   - [ZSH](https://sourceforge.net/p/zsh/code/ci/master/tree/)
-  - [Fish](https://fishshell.com/) with [Fisher](https://github.com/jorgebucaran/fisher) as the plugins manager 
+  - [Fish](https://fishshell.com/) with [Fisher](https://github.com/jorgebucaran/fisher) as the plugins manager
   - [Starship](https://starship.rs/) as my Default shell prompt.
     - NOTE:  [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh) & [powerlevel10k-theme](https://github.com/romkatv/powerlevel10k) are available & configured for ZSH as well.
 - ##### Terminal Emulator: [Alacritty](https://github.com/alacritty/alacritty) OR [Kitty]( https://github.com/kovidgoyal/kitty )
 - ##### Status bars: [Polybar](https://github.com/polybar/polybar) & KDE's Default
-- ##### Audio visualizer: [Cava](https://github.com/karlstav/cava) 
+- ##### Audio visualizer: [Cava](https://github.com/karlstav/cava)
 - ##### Notification deamon: [Dunst](https://github.com/dunst-project/dunst)
 - ##### File managers: [Ranger](https://github.com/ranger/ranger) & [Dolphin](https://apps.kde.org/dolphin/)
 - ##### System Info: [Neofetch]( https://github.com/dylanaraps/neofetch)
@@ -35,10 +35,10 @@
       - Place the `Fonts` folder in `.local/share/fonts` then run `fc-cache`
 ### Optional:
 - #### [pywal](https://github.com/dylanaraps/pywal): generate & change color-schemes based on the current wallpaper
-- #### [znt](https://github.com/z-shell/zsh-navigation-tools): zsh-navigation-tools 
-- #### [delta](https://github.com/dandavison/delta): Syntax-highlighting pager for git and diff output 
-- #### [Btop](https://github.com/aristocratos/btop): resources monitor 
-- #### [ncdu](https://dev.yorhel.nl/ncdu): Disk usage analyzer 
+- #### [znt](https://github.com/z-shell/zsh-navigation-tools): zsh-navigation-tools
+- #### [delta](https://github.com/dandavison/delta): Syntax-highlighting pager for git and diff output
+- #### [Btop](https://github.com/aristocratos/btop): resources monitor
+- #### [ncdu](https://dev.yorhel.nl/ncdu): Disk usage analyzer
 
 ### Configs & Showcase:
 - #### DE: [KDE-Plasma](https://kde.org/plasma-desktop/)

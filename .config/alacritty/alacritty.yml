@@ -68,7 +68,7 @@ cursor:
 
   unfocused_hollow: true
 
-## Mouse 
+## Mouse
 mouse:
   hide_when_typing: true
 
@@ -78,7 +78,7 @@ live_config_reload: true
 key_bindings:
   - { key: Paste,                                             action: Paste          }
   - { key: Copy,                                              action: Copy           }
-  - { key: PageUp,                                            action: ScrollPageUp   }  
+  - { key: PageUp,                                            action: ScrollPageUp   }
   - { key: PageDown,                                          action: ScrollPageDown }
   - { key: Home,                                              action: ScrollToTop    }
   - { key: End,                                               action: ScrollToBottom }
