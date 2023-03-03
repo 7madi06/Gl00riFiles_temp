@@ -32,15 +32,15 @@ alias yayupgrade="yay -Sua"                        ## Update only AUR pkgs
 
 ## Install
 alias yayinstall="yay -S"                          ## Install pkgs from the repo using "YAY"
-alias yaylocal-install="yay -U"                    ## Install pkgs from a local file usnig "YAY"
-alias yayinstall-deps="yay -S --asdeps"            ## Install pkgs as dependencies of another pkg using "YAY"
+alias yaylocal_install="yay -U"                    ## Install pkgs from a local file usnig "YAY"
+alias yayinstall_deps="yay -S --asdeps"            ## Install pkgs as dependencies of another pkg using "YAY"
 
 ## Info
-alias yaypkg-info="yay -Qi"                        ## Query installed pkgs and their files
-alias yaypkg-list="yay -Ql"                        ## List files in a pkg
-alias yaysearch-localdb="yay -Qs"
-alias yaylist-installed-pkgs-local="yay -Qe"
-alias yaydisplay-info-repo="yay -Si"               ## Display info about a pkg in the repo
+alias yaypkg_info="yay -Qi"                        ## Query installed pkgs and their files
+alias yaypkg_list="yay -Ql"                        ## List files in a pkg
+alias yaysearch_localdb="yay -Qs"
+alias yaylist_installed_pkgs_local="yay -Qe"
+alias yaydisplay_info_repo="yay -Si"               ## Display info about a pkg in the repo
 
 ## Using FZF to search YAY
 function yaysearch

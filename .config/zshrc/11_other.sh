@@ -26,20 +26,19 @@
 #_______________________________________________________________________________________#
 #                                                                                       #
 
-alias nv="nvim"
+# alias nv="nvim"
+alias nv="neovide --multigrid"
 alias svim="sudo vim"
 alias nf="neofetch"
 alias :q="exit"
 alias q="exit"
 alias x="exit"
 alias k="clear"
-alias pat="nvim ~/GitHubs/pat.txt"
 alias cls="clear"
 alias tree="tree -a"
 
 alias poweroff="sudo poweroff"
 alias reboot="sudo reboot"
-
 ## Downgrade
 alias downgrade="sudo downgrade"
 
@@ -52,7 +51,7 @@ fs-type()
 {
   df -Th | grep '^/dev'
 }
-alias free-mem="free -h"
+alias free_mem="free -h"
 alias rm="safe-rm"
 alias icat="kitty +kitten icat"                       ## view image with lolo caty
 
@@ -64,7 +63,7 @@ alias game="cd ~/Downloads/hangman && go run main.go" ## Let your brain blowup
 ## (3) Don't forget commands anymore
 forgot()
 {
-  cat ~/SexyCommands.txt
+  cat ~/SexyCommands.norg
 }
 
 ## get the current weather based in ur current location

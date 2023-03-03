@@ -33,7 +33,6 @@ alias :q="exit"
 alias q="exit"
 alias x="exit"
 alias k="clear"
-alias pat="nvim ~/GitHubs/pat.txt"
 alias cls="clear"
 alias tree="tree -a"
 
@@ -64,7 +63,7 @@ alias game="cd ~/Downloads/hangman && go run main.go" ## Let your brain blowup
 ## (3) Don't forget commands anymore
 forgot()
 {
-  cat ~/SexyCommands.txt
+  cat ~/SexyCommands.norg
 }
 
 ## get the current weather based in ur current location

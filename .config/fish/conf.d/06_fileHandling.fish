@@ -32,16 +32,16 @@ alias t="tail -f"                                   ## Outputs the last part of 
 alias find-file="find . -type f -name"              ## Find a file with the given name
 
 ## Find a file & open it with neovim
-alias fzy-find-file='nvim $(fz)'
+alias f='nvim $(fz)'
 alias fz='rg --files --hidden --follow --ignore-vcs -g "!{node_modules,.git}" | fzf'
 
 alias cat="bat"
 
-alias list-zip="unzip -l"
-alias list-rar="unrar l"
-alias list-tar="tar tf"
-alias list-tardotgz="echo"
-alias list-ace="unace l"
+alias list_zip="unzip -l"
+alias list_rar="unrar l"
+alias list_tar="tar tf"
+alias list_tardotgz="echo"
+alias list_ace="unace l"
 
 
 ## create a backup file

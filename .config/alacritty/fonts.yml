@@ -15,7 +15,7 @@
 #             :     @file        :  fonts.yml                                           #
 #             :     @folder      :  ~/.config/alacritty/                                #
 #             :     @brief       :  general settings & keybindings                      #
-#             :     @requires    :  alacritty, Caskaydia Cove Nerd Font & Caskaydia     #                                           
+#             :     @requires    :  alacritty, Caskaydia Cove Nerd Font & Caskaydia     #
 #                                             Cove Nerd Font Mono                       #
 #             :     @optional    :  none                                                #
 #             :     @Note        :  the font can be change to one of your choise        #
@@ -29,8 +29,8 @@
 
 font:
   normal:
-    family: "Caskaydia Cove Nerd Font Mono"
-    style: SemiBold Regular
+    family: "CaskaydiaCove Nerd Font Mono"
+    # style: SemiBold Regular
 
   # Bold font face
   bold:

@@ -20,8 +20,8 @@
 #             :     @Note        :                                                      #
 #_______________________________________________________________________________________#
 #                                                                                       #
-#             :    Created on   :   26, Sep, 2022                                       #
-#             :   Last Updated  :   26, Sep, 2022                                       #
+#             :    Created on   :   16, Feb, 2023                                       #
+#             :   Last Updated  :   16, Feb, 2023                                       #
 # Update History :                                                                      #
 #_______________________________________________________________________________________#
 #                                                                                       #
@@ -30,7 +30,8 @@ source $HOME/.config/zshrc/plugins/safe-paste/safe-paste.plugin.zsh ## prevent c
 source $HOME/.config/zshrc/plugins/urltools/urltools.plugin.zsh ## urlencode/urlencode
 source $HOME/.config/zshrc/plugins/zsh-navigation-tools/zsh-navigation-tools.plugin.zsh
 source $HOME/.config/zshrc/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
-source $HOME/.config/zshrc/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+# source $HOME/.config/zshrc/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+source $HOME/.config/zshrc/plugins/fast-syntax-highlighting/fast-syntax-highlighting.plugin.zsh
 source $HOME/.config/zshrc/plugins/zsh-auto-notify/auto-notify.plugin.zsh # (1) Sends a notification whan a long running task has completed
 source $HOME/.config/zshrc/plugins/autodotenv/autoenv.plugin.zsh # (2) wheather to load the project's ENV vars from ".env" once u "cd" into the project root dir
 source $HOME/.config/zshrc/plugins/zsh-autopair/autopair.plugin.zsh # autopair, '', "", [] ...etc

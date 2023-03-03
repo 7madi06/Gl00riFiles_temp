@@ -26,7 +26,7 @@
 #_______________________________________________________________________________________#
 #                                                                                       #
 
-alias ns-active-sockets='netstat -tup --wide';       # show only active program sockets
+alias ns_active_sockets='netstat -tup --wide';       # show only active program sockets
 
 ## get public ip v4
 alias show_public_ip_v4="curl -Ss4 icanhazip.com/v4"
