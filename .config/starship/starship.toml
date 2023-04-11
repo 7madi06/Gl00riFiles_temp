@@ -23,12 +23,23 @@
 #_______________________________________________________________________________________#
 #                                                                                       #
 
+# 
 format = """
 [($localip)                                                            ──────────────── ($username) @ ($shell)($sudo)────────────────](bold #ce7e00)
 [](bold #ce7e00)$jobs$directory
-[](bold #ce7e00) """
+[❯](bold #ce7e00) """
 
-right_format = """$all"""
+# format = """
+# [╭─user───❯](bold blue) $username
+# [┣─system─❯](bold yellow) $hostname
+# [┣─project❯](bold red) $directory$rust$git_branch$git_state$git_status$package$golang$terraform$docker_context$python$docker_context$nodejs
+# [╰─cmd────❯](bold green)
+# """
+
+right_format ="""$shlvl$cmd_duration$aws$azure$buf$bun$c$cmake$conda$container$crystal$daml$dart$deno$docker_context$dotnet
+$elixir$elm$erlang$gcloud$golang$git_branch$git_commit$git_state$git_matrics$git_status$haskell$helm$java$julia$kotlin$kubernetes
+$lua$nvim$nix_shell$nodejs$ocaml$openstack$package$perl$php$pulumi$purescript$python$rlang$raku$red$ruby$rust$scala$singularity
+$spack$swift$terraform$vagrant$vlang$vcsh$zig$character"""
 
 [username]
 disabled = false

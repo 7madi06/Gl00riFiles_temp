@@ -1,5 +1,5 @@
 [general]
-bars = 16
+bars = 40
 [output]
 method = raw
 raw_target = /tmp/cava.fifo

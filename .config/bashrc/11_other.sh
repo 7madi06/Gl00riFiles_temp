@@ -15,7 +15,7 @@
 #             :     @file        :  11_other.sh                                         #
 #             :     @folder      :  ~/.config/bash/                                     #
 #             :     @brief       :  arbitrary aliases                                   #
-#             :     @requires    :  bashShell, neovim, vim, neofetch, rg, kitty, safe-rm#
+#             :     @requires    :  bashShell, neovim, vim, neofetch, rg,kitty,trash-cli#
 #             :     @optional    :  (1) pywal, (2) hangman, (3) fun forgot              #
 #             :     @Note        :  create that SexyCommands.txt in your $HOME          #
 #_______________________________________________________________________________________#
@@ -52,7 +52,7 @@ fs-type()
   df -Th | grep '^/dev'
 }
 alias free-mem="free -h"
-alias rm="safe-rm"
+alias rm="trash-put"
 alias icat="kitty +kitten icat"                       ## view image with lolo caty
 
 ## (1) https://github.com/dylanaraps/pywal

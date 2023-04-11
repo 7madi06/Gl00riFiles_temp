@@ -15,7 +15,7 @@
 #             :     @file        :  11_other.fish                                       #
 #             :     @folder      :  ~/.config/fish/conf.d                               #
 #             :     @brief       :  arbitrary aliases                                   #
-#             :     @requires    :  fishShell, neovim, vim, neofetch, rg, kitty, safe-rm#
+#             :     @requires    :  fishShell, neovim, vim, neofetch, rg,kitty,trash-cli#
 #             :     @optional    :  (1) wal, (2) hangman, (3) fun forgot                #
 #             :     @Note        :  create that SexyCommands.txt in your $HOME          #
 #_______________________________________________________________________________________#
@@ -38,7 +38,7 @@ alias tree="tree -a"
 
 alias poweroff="sudo poweroff"
 alias reboot="sudo reboot"
-alias rm="safe-rm"
+alias rm="trash-put"
 
 ## Downgrade
 alias downgrade="sudo downgrade"

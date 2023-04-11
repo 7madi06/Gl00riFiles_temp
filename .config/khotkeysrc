@@ -1198,7 +1198,7 @@ Type=SIMPLE_ACTION_DATA
 ActionsCount=1
 
 [Data_7Actions0]
-CommandURL=brightnessctl -q set 5%+ && notify-send "Brightness Up  "
+CommandURL=brightnessctl -q set 5%+ && notify-send "Brightness Up  "
 Type=COMMAND_URL
 
 [Data_7Conditions]
@@ -1250,7 +1250,7 @@ Type=SIMPLE_ACTION_DATA
 ActionsCount=1
 
 [Data_9Actions0]
-CommandURL=brightnessctl -q set 5%- && notify-send "Brightness Down  "
+CommandURL=brightnessctl -q set 5%- && notify-send "Brightness Down  "
 Type=COMMAND_URL
 
 [Data_9Conditions]
@@ -1298,6 +1298,7 @@ Theme[$d]
 
 [KDE]
 LookAndFeelPackage[$d]
+ShowDeleteCommand[$d]
 widgetStyle[$d]
 
 [KFileDialog Settings]
@@ -1324,6 +1325,9 @@ View Style[$d]
 AlreadyImported=defaults,kde32b1,konqueror_gestures_kde321,Flameshot
 Disabled=false
 Version=2
+
+[PreviewSettings]
+MaximumRemoteSize[$d]
 
 [Shortcuts]
 ActualSize[$d]

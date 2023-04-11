@@ -24,13 +24,13 @@ IntensityAmount=0
 IntensityEffect=0
 
 [Colors:Button]
-BackgroundAlternate=73,77,100
+BackgroundAlternate=59,103,148
 BackgroundNormal=54,58,79
-DecorationFocus=54,58,79
-DecorationHover=103,109,136
-ForegroundActive=125,196,228
+DecorationFocus=62,123,178
+DecorationHover=62,123,178
+ForegroundActive=62,123,178
 ForegroundInactive=184,192,224
-ForegroundLink=138,173,244
+ForegroundLink=62,123,178
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=202,211,245
@@ -40,11 +40,11 @@ ForegroundVisited=198,160,246
 [Colors:Complementary]
 BackgroundAlternate=36,39,58
 BackgroundNormal=36,39,58
-DecorationFocus=61,174,233
-DecorationHover=61,174,233
-ForegroundActive=61,174,233
+DecorationFocus=62,123,178
+DecorationHover=62,123,178
+ForegroundActive=62,123,178
 ForegroundInactive=161,169,177
-ForegroundLink=29,153,243
+ForegroundLink=62,123,178
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -54,11 +54,11 @@ ForegroundVisited=155,89,182
 [Colors:Header]
 BackgroundAlternate=24,25,38
 BackgroundNormal=24,25,38
-DecorationFocus=61,174,233
-DecorationHover=61,174,233
-ForegroundActive=61,174,233
+DecorationFocus=62,123,178
+DecorationHover=62,123,178
+ForegroundActive=62,123,178
 ForegroundInactive=161,169,177
-ForegroundLink=29,153,243
+ForegroundLink=62,123,178
 ForegroundNegative=218,68,83
 ForegroundNeutral=246,116,0
 ForegroundNormal=252,252,252
@@ -80,27 +80,27 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Selection]
-BackgroundAlternate=91,96,120
-BackgroundNormal=91,96,120
-DecorationFocus=54,58,79
-DecorationHover=103,109,136
-ForegroundActive=125,196,228
-ForegroundInactive=184,192,224
-ForegroundLink=138,173,244
+BackgroundAlternate=54,97,142
+BackgroundNormal=54,97,142
+DecorationFocus=62,123,178
+DecorationHover=62,123,178
+ForegroundActive=62,123,178
+ForegroundInactive=255,255,255
+ForegroundLink=62,123,178
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
-ForegroundNormal=202,211,245
+ForegroundNormal=255,255,255
 ForegroundPositive=166,218,149
 ForegroundVisited=198,160,246
 
 [Colors:Tooltip]
 BackgroundAlternate=30,32,48
 BackgroundNormal=30,32,48
-DecorationFocus=54,58,79
-DecorationHover=103,109,136
-ForegroundActive=125,196,228
+DecorationFocus=62,123,178
+DecorationHover=62,123,178
+ForegroundActive=62,123,178
 ForegroundInactive=184,192,224
-ForegroundLink=138,173,244
+ForegroundLink=62,123,178
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=184,192,224
@@ -110,11 +110,11 @@ ForegroundVisited=198,160,246
 [Colors:View]
 BackgroundAlternate=36,39,58
 BackgroundNormal=36,39,58
-DecorationFocus=54,58,79
-DecorationHover=103,109,136
-ForegroundActive=125,196,228
+DecorationFocus=62,123,178
+DecorationHover=62,123,178
+ForegroundActive=62,123,178
 ForegroundInactive=184,192,224
-ForegroundLink=138,173,244
+ForegroundLink=62,123,178
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=202,211,245
@@ -124,11 +124,11 @@ ForegroundVisited=198,160,246
 [Colors:Window]
 BackgroundAlternate=36,39,58
 BackgroundNormal=36,39,58
-DecorationFocus=54,58,79
-DecorationHover=103,109,136
-ForegroundActive=125,196,228
+DecorationFocus=62,123,178
+DecorationHover=62,123,178
+ForegroundActive=62,123,178
 ForegroundInactive=184,192,224
-ForegroundLink=138,173,244
+ForegroundLink=62,123,178
 ForegroundNegative=237,135,150
 ForegroundNeutral=245,169,127
 ForegroundNormal=202,211,245
@@ -140,22 +140,24 @@ DirSelectDialog Size=869,596
 History Items[$e]=file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow,file:$HOME/Desktop/testMusic,file:$HOME/Pictures/SlideShow,file:$HOME/VMs,file:$HOME/VMs,file:$HOME/VMs,file:$HOME/Pictures/SlideShow,file:$HOME/VMs,file:$HOME/Pictures/SlideShow,file:$HOME/Pictures/SlideShow
 
 [General]
+AccentColor=62,123,178
 BrowserApplication=brave-browser.desktop
 ColorSchemeHash=cee3b89b17d1c28460ba4aa3dec3ba4f52bfbc50
 XftHintStyle=hintslight
 XftSubPixel=rgb
 accentColorFromWallpaper=true
-fixed=CaskaydiaCove Nerd Font Mono,10,-1,5,75,0,0,0,0,0,Bold
-font=CaskaydiaCove Nerd Font Mono,10,-1,5,75,0,0,0,0,0,Bold
-menuFont=CaskaydiaCove Nerd Font Mono,10,-1,5,75,0,0,0,0,0,Bold
-smallestReadableFont=CaskaydiaCove Nerd Font Mono,8,-1,5,75,0,0,0,0,0,Bold
-toolBarFont=CaskaydiaCove Nerd Font Mono,10,-1,5,75,0,0,0,0,0,Bold
+fixed=FantasqueSansMono Nerd Font,10,-1,5,50,0,0,0,0,0
+font=FantasqueSansMono Nerd Font,10,-1,5,50,0,0,0,0,0
+menuFont=FantasqueSansMono Nerd Font,10,-1,5,50,0,0,0,0,0
+smallestReadableFont=FantasqueSansMono Nerd Font,8,-1,5,50,0,0,0,0,0
+toolBarFont=FantasqueSansMono Nerd Font,10,-1,5,50,0,0,0,0,0
 
 [Icons]
 Theme=Dexie-red
 
 [KDE]
 LookAndFeelPackage=Scratchy
+ShowDeleteCommand=true
 widgetStyle=Oxygen
 
 [KFileDialog Settings]
@@ -178,6 +180,9 @@ Sort reversed=false
 Speedbar Width=163
 View Style=Simple
 
+[PreviewSettings]
+MaximumRemoteSize=0
+
 [Shortcuts]
 ActualSize=
 Help=
@@ -188,7 +193,7 @@ ZoomOut=
 [WM]
 activeBackground=24,25,38
 activeBlend=24,25,38
-activeFont=CaskaydiaCove Nerd Font Mono,10,-1,5,75,0,0,0,0,0,Bold
+activeFont=FantasqueSansMono Nerd Font,10,-1,5,50,0,0,0,0,0
 activeForeground=202,211,245
 inactiveBackground=24,25,38
 inactiveBlend=161,169,177

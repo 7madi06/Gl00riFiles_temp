@@ -15,7 +15,7 @@
 #             :     @file        :  11_other.sh                                         #
 #             :     @folder      :  ~/.config/zshrc/                                    #
 #             :     @brief       :  arbitrary aliases                                   #
-#             :     @requires    :  zshShell, neovim, vim, neofetch, rg, kitty, safe-rm #
+#             :     @requires    :  zshShell, neovim, vim, neofetch, rg, kitty,trash-cli#
 #             :     @optional    :  (1) pywal, (2) hangman, (3) forgot                  #
 #             :     @Note        :  create that SexyCommands.txt in your $HOME          #
 #_______________________________________________________________________________________#
@@ -26,8 +26,8 @@
 #_______________________________________________________________________________________#
 #                                                                                       #
 
-# alias nv="nvim"
-alias nv="neovide --multigrid"
+alias nv="nvim"
+alias neovide="neovide --multigrid"
 alias svim="sudo vim"
 alias nf="neofetch"
 alias :q="exit"
@@ -52,7 +52,7 @@ fs-type()
   df -Th | grep '^/dev'
 }
 alias free_mem="free -h"
-alias rm="safe-rm"
+alias rm="trash-put"
 alias icat="kitty +kitten icat"                       ## view image with lolo caty
 
 ## (1) https://github.com/dylanaraps/pywal
